@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPwEsVRBwk5LASqLjjIyxJ/y7EsaG0bRHF7oA+zm5Tndzt/ydJq69zKrnSYexaDjAUkS29qwwu9So3wl+dZ7HQ==",
+  "success": true,
+  "projectFilePath": "/Users/arej/Projects/AppSolbeg/AppSolbeg/AppSolbeg.csproj",
+  "expectedPackageFiles": [
+    "/Users/arej/.nuget/packages/microsoft.build.tasks.git/1.1.1/microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "/Users/arej/.nuget/packages/microsoft.sourcelink.common/1.1.1/microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "/Users/arej/.nuget/packages/microsoft.sourcelink.github/1.1.1/microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
